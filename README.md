@@ -44,8 +44,8 @@ The Tableau dashboard ultimately served as a powerful tool for visualizing compl
 
 # Links
 
-Netlify Training Project: 
+Netlify Training Project: https://jobportalvisualisation.netlify.app/
 
-Netlify Internship Project: 
+Netlify Internship Project: https://internjobportals.netlify.app/
 
 By integrating these elements into my internship projects, I was able to create meaningful visualizations that contributed significantly to the company's data analysis capabilities.
