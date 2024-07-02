@@ -8,6 +8,8 @@ DOMAIN : DATA ANALYST INTERN
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
+Tableau Dashboard: https://public.tableau.com/views/JobPortal_17190708264820/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 # Problem Statement
 
 The primary objective of my internship was to create data visualizations that provide insightful and actionable information based on specific filters and conditions. These visualizations were aimed at improving decision-making processes within the company by highlighting critical data points and trends.
