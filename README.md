@@ -8,7 +8,7 @@ DOMAIN : DATA ANALYST INTERN
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
-Tableau Dashboard: https://public.tableau.com/views/JobPortal_17190708264820/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+Tableau Dashboard: [https://public.tableau.com/views/JobPortal_17190708264820/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/ramya.krishnan.a8410/viz/JobPortals_17202431734360/InternProject)
 
 # Problem Statement
 
@@ -46,8 +46,6 @@ The Tableau dashboard ultimately served as a powerful tool for visualizing compl
 
 # Links
 
-Netlify Training Project: https://jobportalvisualisation.netlify.app/
-
-Netlify Internship Project: https://internjobportals.netlify.app/
+Netlify Project Link: https://projectvisualisation.netlify.app/
 
 By integrating these elements into my internship projects, I was able to create meaningful visualizations that contributed significantly to the company's data analysis capabilities.
